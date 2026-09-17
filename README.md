@@ -119,4 +119,4 @@ were found that synthetic cases would have missed.
 ## Authors
 
 Sudmun Hakim Soudho and Monowar Zamil Abir, Department of Computer Science and Engineering,
-BRAC University. CSE791 Group 11.
+BRAC University.
