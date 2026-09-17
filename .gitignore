@@ -1,0 +1,52 @@
+# Model weights and checkpoints: large, and regenerable from train_lora.py
+adapters/
+adapters_1024/
+_checkpoints/
+*.safetensors
+*.bin
+
+# Caches and scratch
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+superseded/
+terminal_output/
+*.bak
+
+# Live monitor logs; the per-run logs in logs/ are kept on purpose
+train_live.log
+eval_live.log
+
+
+previouscontext*
+.claude/
+results/
+results_v2/full500/
+*.ps1
+eval.ps1
+rebuild.ps1
+run_detached.ps1
+draft_results.py
+
+# Working notes and monitors, not part of the pipeline
+00_environment_check.ipynb
+NewLiteratureReview.md
+P7_update*
+STATUS.md
+lit_*.md
+notebooklm_prompt.txt
+memorisation_check.py
+status.py
+track.py
+watch.py
+watch2.py
+run_*.sh
+setup_env.sh
+requirements_lock.txt
+removed_contaminated.xls
+heldout_math_eval.jsonl
+logs/
+probes/
+paper/_*.tex
+paper/CSE791_Group_11.pdf
+paper/*.xlsx
