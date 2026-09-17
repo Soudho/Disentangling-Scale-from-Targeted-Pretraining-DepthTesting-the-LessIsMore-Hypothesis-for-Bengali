@@ -2,7 +2,6 @@
 
 Testing the less-is-more hypothesis for Bengali mathematical reasoning.
 
-CSE791 Group 11, BRAC University.
 
 ## Research question
 
